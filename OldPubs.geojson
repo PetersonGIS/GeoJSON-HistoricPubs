@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "name": "Lamb Tavern", "idno": 63, "Establishd": 1780, "AltName": null, "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -0.083994788232087, 51.512943735135345 ] } },
+{ "type": "Feature", "properties": { "name": "Jamaica Wine House", "idno": 73, "Establishd": 1652, "AltName": null, "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -0.0856268, 51.5130813 ] } },
+{ "type": "Feature", "properties": { "name": "Ye Olde Bell Tavern", "idno": 3, "Establishd": 1670, "AltName": "The Old Bell Tavern", "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -0.105187725716035, 51.514025287055077 ] } },
+{ "type": "Feature", "properties": { "name": "The Grapes", "idno": 4, "Establishd": 1583, "AltName": null, "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -0.082800363215346, 51.512227598047239 ] } },
+{ "type": "Feature", "properties": { "name": "The Viaduct Tavern", "idno": 5, "Establishd": 1875, "AltName": null, "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -0.101436922817338, 51.516049889015385 ] } },
+{ "type": "Feature", "properties": { "name": "The Blackfriar", "idno": 6, "Establishd": 1905, "AltName": null, "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -0.103652750910973, 51.512143599160474 ] } },
+{ "type": "Feature", "properties": { "name": "The Cheshire Cheese", "idno": 7, "Establishd": 1538, "AltName": "Ye Olde Cheshire Cheese", "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -0.107052832736581, 51.51415680375392 ] } },
+{ "type": "Feature", "properties": { "name": "Hoop & Grapes", "idno": 8, "Establishd": 1721, "AltName": "The Hoop and Grapes", "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -0.104376206966225, 51.515381989651402 ] } },
+{ "type": "Feature", "properties": { "name": "The Old Red Cow", "idno": 9, "Establishd": 1854, "AltName": null, "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -0.09932043280183, 51.519195816125539 ] } },
+{ "type": "Feature", "properties": { "name": "Old Bengal Bar", "idno": 10, "Establishd": 2010, "AltName": null, "Notes": "In an 18th Century Warehouse" }, "geometry": { "type": "Point", "coordinates": [ -0.080414661376838, 51.51708200180861 ] } }
+]
+}
