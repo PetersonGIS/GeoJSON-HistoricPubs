@@ -1,4 +1,4 @@
-GeoJSON-OldPubs
+GeoJSON-HistoricPubs
 ---------------
 
 Historic pub points, names, alternate names, and date established. Pubs that are not themselves historic, but which are in sufficiently compelling historic buildings can also be added, though a note should be given to this effect in the Notes field. The initial commit includes 10 historic pubs in London's Square Mile, though the data can and should not be constrained spatially subsequent to this. Sources for the initial pub points commit include Google maps and lists from The Guardian, TripAdvisor, Telegraph, and Travel CNN to name a few.
